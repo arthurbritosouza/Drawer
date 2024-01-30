@@ -8,3 +8,6 @@ Para o meu primeiro projeto pensei em fazer algo simples como um projeto que gua
 -3 - Peguei inspiração para fazer ele, um deles foi o notion, que me inspirei para fazer a parte de anotações do meu projeto<br>
 
 esse meu projeto foi apenas para eu me desnvolver ainda mais com o laravel php.
+
+[Baixar Banco de Dados SQL (PhpMyAdmin)](https://github.com/arthurbritosouza/mysql-phpmyaadmin)
+
