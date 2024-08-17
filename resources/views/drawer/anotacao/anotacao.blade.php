@@ -1,5 +1,5 @@
 @extends('layouts.user_type.auth')
-
+@include('includes.include')
 @section('content')
 @php 
 
