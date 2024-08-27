@@ -9,5 +9,35 @@ Para o meu primeiro projeto pensei em fazer algo simples como um projeto que gua
 
 esse meu projeto foi apenas para eu me desnvolver ainda mais com o laravel php.
 
-[Baixar Banco de Dados SQL (PhpMyAdmin)](https://github.com/arthurbritosouza/mysql-phpmyaadmin)
+### Pré-requisitos
+- Composer para gerenciar dependências PHP.
+- Php 8.3.10
+- Laravel 10.46.0
+### Instalação
 
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    cd seu-repositorio
+    ```
+
+2. Configure o ambiente:
+    ```bash
+    cp .env.example .env
+    ```
+
+3. Instale as dependências:
+    ```bash
+    composer install
+    npm install
+    ```
+
+4. Rode as migrações do banco de dados:
+    ```bash
+    php artisan migrate
+    ```
+
+5. Suba o servidor web:
+    ```bash
+    php artisan serve
+    ```
